@@ -1,7 +1,23 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="beinsportsnews.qa" tvg-name="beinsportsnews.qa" tvg-logo="http://bl3rbe.net/up/W9q5eEgKlW2B.png" group-title="BEIN SPORT 4K",Bein Sport News 4k
-http://falconiptv.pro:80/maouhoub39/22abdellah/135668
-#EXTINF:-1 tvg-chno="2" tvg-id="" tvg-name="BEIN SPORT 4K" tvg-logo="" group-title="BEIN SPORT 4K",BEIN SPORT 4K
-http://falconiptv.pro:80/maouhoub39/22abdellah/238414
-#EXTINF:-1 tvg-chno="3" tvg-id="" tvg-name="BEINS SPORTS PREMIUM 1 4k" tvg-logo="http://bl3rbe.net/up/aJn6VRgj33Bn.png" group-title="BEIN SPORT 4K",BEINS SPORTS PREMIUM 1 4k
-http://falconiptv.pro:80/maouhoub39/22abdellah/211795
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦| BEIN SPORTS HD |✦●✦" tvg-logo="https://lo1.in/mega/BS/BS.png" group-title="AR | BEIN SPORTS",✦●✦| BEIN SPORTS HD |✦●✦
+http://ip354.cx:900/BB457BC6/DBB76ACC/57
+#EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="AR| BEIN SPORTS NEWS HD" tvg-logo="https://lo1.in/mega/BS/BSnews.png" group-title="AR | BEIN SPORTS",AR| BEIN SPORTS NEWS HD
+http://ip354.cx:900/BB457BC6/DBB76ACC/58
+#EXTINF:-1 tvg-id="beinsportsglobal.qa" tvg-name="AR| BEIN SPORTS HD" tvg-logo="https://lo1.in/mega/BS/BS.png" group-title="AR | BEIN SPORTS",AR| BEIN SPORTS HD
+http://ip354.cx:900/BB457BC6/DBB76ACC/59
+#EXTINF:-1 tvg-id="beinsportsnba.qa" tvg-name="AR| BEIN SPORTS NBA HD" tvg-logo="https://lo1.in/mega/BS/BSnba.png" group-title="AR | BEIN SPORTS",AR| BEIN SPORTS NBA HD
+http://ip354.cx:900/BB457BC6/DBB76ACC/400207008
+#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="AR| BEIN SPORTS 1 HD" tvg-logo="https://lo1.in/mega/BS/BS1.png" group-title="AR | BEIN SPORTS",AR| BEIN SPORTS 1 HD
+http://ip354.cx:900/BB457BC6/DBB76ACC/61
+#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="AR| BEIN SPORTS 2 HD" tvg-logo="https://lo1.in/mega/BS/BS2.png" group-title="AR | BEIN SPORTS",AR| BEIN SPORTS 2 HD
+http://ip354.cx:900/BB457BC6/DBB76ACC/62
+#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="AR| BEIN SPORTS 3 HD" tvg-logo="https://lo1.in/mega/BS/BS3.png" group-title="AR | BEIN SPORTS",AR| BEIN SPORTS 3 HD
+http://ip354.cx:900/BB457BC6/DBB76ACC/63
+#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="AR| BEIN SPORTS 4 HD" tvg-logo="https://lo1.in/mega/BS/BS4.png" group-title="AR | BEIN SPORTS",AR| BEIN SPORTS 4 HD
+http://ip354.cx:900/BB457BC6/DBB76ACC/64
+#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="AR| BEIN SPORTS 5 HD" tvg-logo="https://lo1.in/mega/BS/BS5.png" group-title="AR | BEIN SPORTS",AR| BEIN SPORTS 5 HD
+http://ip354.cx:900/BB457BC6/DBB76ACC/65
+#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="AR| BEIN SPORTS 6 HD" tvg-logo="https://lo1.in/mega/BS/BS6.png" group-title="AR | BEIN SPORTS",AR| BEIN SPORTS 6 HD
+http://ip354.cx:900/BB457BC6/DBB76ACC/66
+#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="AR| BEIN SPORTS 7 HD" tvg-logo="https://lo1.in/mega/BS/BS7.png" group-title="AR | BEIN SPORTS",AR| BEIN SPORTS 7 HD
+http://ip354.cx:900/BB457BC6/DBB76ACC/67
